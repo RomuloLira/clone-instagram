@@ -63,7 +63,8 @@ body {
 }
 
 .instagram-logo {
-         height: 3rem;	
+         height: 3rem;
+	 margin-bottom: 10px; 
 }
 
 .profile-photo {
